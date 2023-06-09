@@ -11,6 +11,9 @@
 # Input: ransomNote = "aa", magazine = "aab"
 # Output: true
 
+
+
+
 # Count Palindromes
 # GIven a list of strings, count the number of palindromes that occur inside of the list 
 # (a palindrome is a word that is spelled the same backwards and forward).
